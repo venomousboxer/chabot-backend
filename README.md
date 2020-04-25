@@ -1,5 +1,5 @@
-# icts-chatbot
-Chat bot for ICTS-LMS
+# chatbot
+A simple retrieval based chatbot
 
 # How to run
 1. Clone the repository
