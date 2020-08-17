@@ -1,5 +1,5 @@
 # chatbot
-A simple retrieval based chatbot
+A retrieval based chatbot
 
 # How to run
 1. Clone the repository
