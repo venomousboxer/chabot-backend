@@ -153,7 +153,7 @@ sqlparse==0.2.4
 swapper==1.1.0
 tabulate==0.7.5
 tensorboard==1.6.0
-tensorflow==1.6.0
+tensorflow==1.15.4
 tensorflow-tensorboard==1.5.1
 termcolor==1.1.0
 terminado==0.8.1
