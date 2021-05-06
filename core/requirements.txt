@@ -48,7 +48,7 @@ drfdocs==0.0.11
 entrypoints==0.2.3
 flasgger==0.9.1
 Flask==1.0.2
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 fuzzywuzzy==0.16.0
 gast==0.2.0
 gensim==3.4.0
