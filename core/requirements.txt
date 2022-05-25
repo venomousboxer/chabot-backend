@@ -114,7 +114,7 @@ pycparser==2.19
 pydot==1.4.1
 pydotplus==2.0.2
 Pygments==2.3.0
-PyJWT==1.6.1
+PyJWT==2.4.0
 pymorphy2==0.8
 pymorphy2-dicts==2.4.393442.3710985
 pymorphy2-dicts-ru==2.4.404381.4453942
