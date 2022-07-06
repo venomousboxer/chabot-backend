@@ -55,7 +55,7 @@ gensim==3.4.0
 graphviz==0.10.1
 grpcio==1.10.0
 h5py==2.8.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.6
 imbalanced-learn==0.4.3
 imblearn==0.0
